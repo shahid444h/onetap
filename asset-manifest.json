@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/onetap/static/css/main.30ce97e0.css",
+    "main.js": "/onetap/static/js/main.b1597f8a.js",
+    "static/js/787.81dc7098.chunk.js": "/onetap/static/js/787.81dc7098.chunk.js",
+    "static/media/logo.svg": "/onetap/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/onetap/index.html",
+    "main.30ce97e0.css.map": "/onetap/static/css/main.30ce97e0.css.map",
+    "main.b1597f8a.js.map": "/onetap/static/js/main.b1597f8a.js.map",
+    "787.81dc7098.chunk.js.map": "/onetap/static/js/787.81dc7098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ce97e0.css",
+    "static/js/main.b1597f8a.js"
+  ]
+}
